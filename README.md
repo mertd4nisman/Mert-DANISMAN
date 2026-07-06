@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mertdanisman&color=blueviolet&style=flat-square" alt="Profil Ziyaretçisi" />
 </p>
 
-Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz kod yazmayı, karmaşık süreçleri otomatikleştirmeyi ve kullanıcı dostu, minimalist araçlar geliştirmeyi seviyorum. Sürekli yeni teknolojiler keşfederek kendimi geliştirmeye devam ediyorum. 🚀
+Web Developer(Full Stack), Application Developer Ve Software Developer. Temiz kod yazmayı, karmaşık süreçleri otomatikleştirmeyi ve kullanıcı dostu, minimalist araçlar geliştirmeyi seviyorum. Sürekli yeni teknolojiler keşfederek kendimi geliştirmeye devam ediyorum. 💎
 
 ---
 
